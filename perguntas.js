@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Conhecimento Geral',
+    'Quem é o mais gostoso do 3ºA?',
+    'O Cauã Riquelme é o mais gostoso'
 )
